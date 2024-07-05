@@ -1,0 +1,6 @@
+- id: zola-check
+  name: Zola check
+  entry: zola check
+  language: system
+  pass_filenames: false
+  description: 'Runs zola check command on the repository'
